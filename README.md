@@ -1,5 +1,5 @@
 # Cosmos18_5
-MATLAB application for real-time colloidal particle tracking using live camera feedback and dynamic Tango DLL piezo stage control.
+MATLAB application for real-time colloidal particle tracking using live camera feedback and dynamic Tango desktop stepper motor controller for stage control.
 # Cosmos 15.8 – Hybrid Particle Tracking & Stage Control App
 
 A GUI-based MATLAB application developed for automated, real-time colloidal particle tracking. The system captures live video streams, processes image frames to calculate physical drift, and dynamically compensates for movement using a motorized micro-positioning stage (*Tango DLL*).
