@@ -4,7 +4,7 @@ MATLAB application for real-time colloidal particle tracking using live camera f
 
 A GUI-based MATLAB application developed for automated, real-time colloidal particle tracking. The system captures live video streams, processes image frames to calculate physical drift, and dynamically compensates for movement using a motorized micro-positioning stage (*Tango DLL*).
 
-![App Interface](docs/app_preview.png)
+![App Interface](screenshot cosmos.png)
 
 ## Key Features
 
